@@ -13,8 +13,10 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 
 ## Trainings and Resources
 
-[**Hands on Training Accessibility Testing Workshop**](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/) - This was a morning workshop I attended on April 2, 2020, put on by [Knowbility](https://knowbility.org/), and hosted by [Nicolas Steenhout](https://twitter.com/vavroom).
+[**Hands on Training Accessibility Testing Workshop**](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/)
+- This was a morning workshop I attended on April 2, 2020, put on by [Knowbility](https://knowbility.org/), and hosted by [Nicolas Steenhout](https://twitter.com/vavroom).
 - Notes can be found here.
 
-[**Introduction ro Web Accessibility WCAG 2.1**](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/) - A Udemy course taught by Ross Mullen, director of CANAXESS.
+[**Introduction to Web Accessibility WCAG 2.1**](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/)
+- A Udemy course taught by Ross Mullen, director of CANAXESS.
 - Notes can be found here.
