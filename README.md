@@ -3,8 +3,8 @@
 _Web Accessibility_ is the inclusive practice of making websites usable by everyone, regardless of ability or disability.
 
 
->> "The power of the Web is in its universality. Access by everyone, regardless of disability, is an essential aspect."
-- Tim Berners-Lee, W3C Directior, and inventor of the World Wide Web.
+>>"The power of the Web is in its universality. Access by everyone, regardless of disability, is an essential aspect."
+\- Tim Berners-Lee, W3C Directior, and inventor of the World Wide Web.
 
 
 I'm aiming be a better web developer by improving my knowledge of web accessibility and putting what I learn into practice. This repo is meant to be a place where I compile notes about web accessibility for easy reference and recall. This is a living document that I will update as I do various trainings, learn new things, or implement and improve old ones. Pull requests are welcome.
