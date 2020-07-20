@@ -8,22 +8,20 @@
 
 - These principles make it quick to find relevant accessibility guidelines.
 - The categories can be thought of as a guide to show only the accesibility criteria for specific content.
-    + Example: Making text content accessibility does not require meeting the criteria for making video content accessibile.
+    + *Example* - Making text content accessible does not require meeting the criteria for making video content accessible.
 - For every guideline there are one or more individual success criteria
-- Within each success criteria are several situations and techniques describing when the success criteria can be applied
+- Within each success criteria are several situations and techniques describing when the success criteria can be applied.
 
 
-## Perceive
+## Perceivable
 
-- Ensures content isn't just displayed in one way, but alternative ways to be interpreted.
-- There are four guidelines grouped under the __Perceive__ principle.
-- These principles are intended to apply techniques in such a way that the user can understand the content.
+- Ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
 - Guidelines:
     + __Guideline 1.1__ - non-text content has a text alternative
     + __Guideline 1.2__ - video and audio have accessibility alternatives
     + __Guideline 1.3__ - the underlying structure of content is robust and it can be presented in different ways
     + __Guideline 1.4__ - the content can be easily separated from the background
-- An image:
+- *Example* - An image:
     + Can only be understood by sighted people.
     + Adding a text alternative using the ALT attribute provides a description which can be interpreted in a non-visual way.
     + Applicable Guideline = __Guideline 1.1__ - non-text content has a text alternative.
@@ -54,7 +52,7 @@
 - Guidelines:
     + __Guideline 3.1__ - make text readable and understandable
     + __Guideline 3.2__ - make web pages appear and operate in predictable ways
-    + __Guideline 3.3__ - help isers avoid and correct mistakes
+    + __Guideline 3.3__ - help users avoid and correct mistakes
 
 
 ## Robust
@@ -66,10 +64,10 @@
 
 ## Summary
 
-- The POUR principles help identify which guidelines are important in making specific web content accessibile.
+- The POUR principles help identify which guidelines are important in making specific web content accessible.
 - Each princple expands into specific success criteria.
 - Each success criteria has several situations, techniques, and failures to apply.
-- Not accessibility guidelines are relevant for all web content.
+- Not all accessibility guidelines are relevant for all web content.
 
 
 ## POUR Principles Links
