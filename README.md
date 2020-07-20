@@ -19,4 +19,4 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 
 [**Introduction to Web Accessibility WCAG 2.1**](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/)
 - A Udemy course taught by Ross Mullen, director of CANAXESS.
-- Notes can be found here.
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/introduction-to-web-accessibility-wcag-notes).
