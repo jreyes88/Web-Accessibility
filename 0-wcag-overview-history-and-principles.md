@@ -29,16 +29,19 @@ Web Content Accessibility Guidelines (WCAG) is part of a series of web standards
         * Priority 3: Developers **may** implement this requrirement to make it easier for **some** groups to access web content.
 - _December 11, 2008_: WCAG 1.0 was updated to WCAG 2.0.
     + WCAG 2.0 consisted of 12 guidelines, organised under 4 principles:
-        * Perceivable, Operable, Understandable, Robust
-        * In essence, a user can use, operate, understand, and the content is robust
-    + Uses 3 levels of conformance:
+        * Perceivable
+        * Operable,
+        * Understandable,
+        * Robust.
+    + In essence, a user can use, operate, and understand a webpage, and the webpage's content is robust.
+    + WCAG 2.0 uses 3 levels of conformance:
         * Level A: the webpage satisfies **all the Level A Success criteria**,
         * Level AA: the webpage satisfies **all the Level A and Level AA criteria**,
         * Level AAA: the webpage satisfies **all the Level A, Level AA, and Level AAA criteria**.
 - _June 5, 2018_: WCAG 2.1 became a W3C recommendation.
     + WCAG 2.1 aims to improve support for three major groups: 
         * Users with cognitive or learning disabilities,
-        * Users with low visions,
+        * Users with low vision,
         * Users of mobile devices.
     + WCAG 2.1 is backwards compatible with WCAG 2.0.
     + WCAG 2.1 has layers of conformance:
@@ -46,11 +49,11 @@ Web Content Accessibility Guidelines (WCAG) is part of a series of web standards
         * Guidelines: Give creators basic goals to work towards,
         * Success Criteria: Are testable statements that include granular details to build against,
         * Sufficient Techniques: Identified ways to pass a particular criteria,
-        * Advisory Techniques: Identified ways to improve the users' experience
+        * Advisory Techniques: Identified ways to improve the users' experience.
     + Many countries are adopting WCAG 2.1 as the industry standard.
 
 ## Summary
 
 - WCAG 2.1 is one of the essential 3 guidelines for web accessibility.
-- An internationally recognized best practice way for making web content accessible.
+- An internationally recognized set of best practices for making web content accessible.
 - It's made up of four principles, each of which have basic guidelines, and within each guideline are success criteria which act as statements to test against.
