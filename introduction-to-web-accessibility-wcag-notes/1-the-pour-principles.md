@@ -59,21 +59,22 @@ The __Operable__ principle ensures the content can be operated.
 
 ## Understandable
 
-- Ensures:
-    + Content is clear and readable,
-    + Operates in predictable ways,
-    + Helps users avoid mistakes.
-- Guidelines:
-    + __Guideline 3.1__ - make text readable and understandable
-    + __Guideline 3.2__ - make web pages appear and operate in predictable ways
-    + __Guideline 3.3__ - help users avoid and correct mistakes
+The __Understandable__ principle ensures the content is clear and readable, operates in predictable ways, and helps users avoid mistakes.
+
+
+### Understandable Guidelines:
+- __Guideline 3.1__ - make text readable and understandable
+- __Guideline 3.2__ - make web pages appear and operate in predictable ways
+- __Guideline 3.3__ - help users avoid and correct mistakes
 
 
 ## Robust
 
-- Ensures that content can be interpreted reliably by a wide variety of user agents and assistive technologies.
-- Guidelines:
-    + __Guideline 4.1__ - maximize compatibility with current and future user agents, including assistive technologies
+The __Robust__ principle ensures that content can be interpreted reliably by a wide variety of user agents and assistive technologies.
+
+
+### Robust Guidelines:
+- __Guideline 4.1__ - maximize compatibility with current and future user agents, including assistive technologies
 
 
 ## Summary
