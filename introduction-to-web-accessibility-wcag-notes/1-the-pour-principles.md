@@ -57,7 +57,7 @@
 
 ## Robust
 
-- Ensures that content can be interpreted reliably by a wide variety of user agents and assitive technologies.
+- Ensures that content can be interpreted reliably by a wide variety of user agents and assistive technologies.
 - Guidelines:
     + __Guideline 4.1__ - maximize compatibility with current and future user agents, including assistive technologies
 
@@ -65,7 +65,7 @@
 ## Summary
 
 - The POUR principles help identify which guidelines are important in making specific web content accessible.
-- Each princple expands into specific success criteria.
+- Each principle expands into specific success criteria.
 - Each success criteria has several situations, techniques, and failures to apply.
 - Not all accessibility guidelines are relevant for all web content.
 
