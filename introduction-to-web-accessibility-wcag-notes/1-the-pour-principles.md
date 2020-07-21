@@ -22,18 +22,22 @@ Within each success criteria are several situations and techniques describing wh
 
 ## Perceivable
 
-- Ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
-- Guidelines:
-    + __Guideline 1.1__ - non-text content has a text alternative
-    + __Guideline 1.2__ - video and audio have accessibility alternatives
-    + __Guideline 1.3__ - the underlying structure of content is robust and it can be presented in different ways
-    + __Guideline 1.4__ - the content can be easily separated from the background
-- *Example* - An image:
-    + Can only be understood by sighted people.
-    + Adding a text alternative using the ALT attribute provides a description which can be interpreted in a non-visual way.
-    + Applicable Guideline = __Guideline 1.1__ - non-text content has a text alternative.
-    + Applicable Success Criteria = __Success Criteria 1.1.1 Non-text Content__ - all non-text content that is presented to the user has a text alternative that serves the equivalent purpose.
-        * This specific success criteria does list several situations that are exempt from providing the text alternative, as well as sufficient techniques that pass the success criteria, and known failures.
+The __Perceivable__ principle ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
+
+
+Guidelines:
+- __Guideline 1.1__ - non-text content has a text alternative
+- __Guideline 1.2__ - video and audio have accessibility alternatives
+- __Guideline 1.3__ - the underlying structure of content is robust and it can be presented in different ways
+- __Guideline 1.4__ - the content can be easily separated from the background
+
+
+*Example* - An image:
+- Can only be understood by sighted people.
+- Adding a text alternative using the ALT attribute provides a description which can be interpreted in a non-visual way.
+- Applicable Guideline = __Guideline 1.1__ - non-text content has a text alternative.
+- Applicable Success Criteria = __Success Criteria 1.1.1 Non-text Content__ - all non-text content that is presented to the user has a text alternative that serves the equivalent purpose.
+    + This specific success criteria does list several situations that are exempt from providing the text alternative, as well as sufficient techniques that pass the success criteria, and known failures.
 
 
 ## Operable
