@@ -25,7 +25,8 @@ Within each success criteria are several situations and techniques describing wh
 The __Perceivable__ principle ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
 
 
-Guidelines:
+### Perceivable Guidelines:
+
 - __Guideline 1.1__ - non-text content has a text alternative
 - __Guideline 1.2__ - video and audio have accessibility alternatives
 - __Guideline 1.3__ - the underlying structure of content is robust and it can be presented in different ways
@@ -42,16 +43,18 @@ Guidelines:
 
 ## Operable
 
-- Ensures the content can be operated.
-    + It can be operated from the keyboard as well as the mouse,
-    + It doesn't cause seizures,
-    + Waypoints are provided to help users understand where they are in the content.
-- Guidelines:
-    + __Guideline 2.1__ - make all functionality available from a keyboard
-    + __Guideline 2.2__ - provide users enough time to read and use content
-    + __Guideline 2.3__ - do not design content in a way that is known to cause seizures
-    + __Guideline 2.4__ - provide ways to help users navigate, find content, and determine where they are
-    + __Guideline 2.5__ - users can operate content through a variety of input devices
+The __Operable__ principle ensures the content can be operated.
+- It can be operated from the keyboard as well as the mouse,
+- It doesn't cause seizures,
+- Waypoints are provided to help users understand where they are in the content.
+
+
+### Operable Guidelines:
+- __Guideline 2.1__ - make all functionality available from a keyboard
+- __Guideline 2.2__ - provide users enough time to read and use content
+- __Guideline 2.3__ - do not design content in a way that is known to cause seizures
+- __Guideline 2.4__ - provide ways to help users navigate, find content, and determine where they are
+- __Guideline 2.5__ - users can operate content through a variety of input devices
 
 
 ## Understandable
