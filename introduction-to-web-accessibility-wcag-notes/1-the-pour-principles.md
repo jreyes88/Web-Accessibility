@@ -11,7 +11,7 @@ These principles make it quick to find relevant accessibility guidelines.
 
 
 The categories can be thought of as a guide to show only the accesibility criteria for specific content.
-- *Example* - Making text content accessible does not require meeting the criteria for making video content accessible.
+- _Example_ - Making text content accessible does not require meeting the criteria for making video content accessible.
 
 
 For every guideline there are one or more individual success criteria
@@ -22,59 +22,59 @@ Within each success criteria are several situations and techniques describing wh
 
 ## Perceivable
 
-The __Perceivable__ principle ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
+The **Perceivable** principle ensures content isn't just displayed in one way, but that alternative ways to be interpreted are provided such that the user can understand the content.
 
 
 ### Perceivable Guidelines:
 
-- __Guideline 1.1__ - non-text content has a text alternative
-- __Guideline 1.2__ - video and audio have accessibility alternatives
-- __Guideline 1.3__ - the underlying structure of content is robust and it can be presented in different ways
-- __Guideline 1.4__ - the content can be easily separated from the background
+- **Guideline 1.1** - non-text content has a text alternative
+- **Guideline 1.2** - video and audio have accessibility alternatives
+- **Guideline 1.3** - the underlying structure of content is robust and it can be presented in different ways
+- **Guideline 1.4** - the content can be easily separated from the background
 
 
 *Example* - An image:
 - Can only be understood by sighted people.
 - Adding a text alternative using the ALT attribute provides a description which can be interpreted in a non-visual way.
-- Applicable Guideline = __Guideline 1.1__ - non-text content has a text alternative.
-- Applicable Success Criteria = __Success Criteria 1.1.1 Non-text Content__ - all non-text content that is presented to the user has a text alternative that serves the equivalent purpose.
+- Applicable Guideline = **Guideline 1.1** - non-text content has a text alternative.
+- Applicable Success Criteria = **Success Criteria 1.1.1 Non-text Content** - all non-text content that is presented to the user has a text alternative that serves the equivalent purpose.
     + This specific success criteria does list several situations that are exempt from providing the text alternative, as well as sufficient techniques that pass the success criteria, and known failures.
 
 
 ## Operable
 
-The __Operable__ principle ensures the content can be operated.
+The **Operable** principle ensures the content can be operated.
 - It can be operated from the keyboard as well as the mouse,
 - It doesn't cause seizures,
 - Waypoints are provided to help users understand where they are in the content.
 
 
 ### Operable Guidelines:
-- __Guideline 2.1__ - make all functionality available from a keyboard
-- __Guideline 2.2__ - provide users enough time to read and use content
-- __Guideline 2.3__ - do not design content in a way that is known to cause seizures
-- __Guideline 2.4__ - provide ways to help users navigate, find content, and determine where they are
-- __Guideline 2.5__ - users can operate content through a variety of input devices
+- **Guideline 2.1** - make all functionality available from a keyboard
+- **Guideline 2.2** - provide users enough time to read and use content
+- **Guideline 2.3** - do not design content in a way that is known to cause seizures
+- **Guideline 2.4** - provide ways to help users navigate, find content, and determine where they are
+- **Guideline 2.5** - users can operate content through a variety of input devices
 
 
 ## Understandable
 
-The __Understandable__ principle ensures the content is clear and readable, operates in predictable ways, and helps users avoid mistakes.
+The **Understandable** principle ensures the content is clear and readable, operates in predictable ways, and helps users avoid mistakes.
 
 
 ### Understandable Guidelines:
-- __Guideline 3.1__ - make text readable and understandable
-- __Guideline 3.2__ - make web pages appear and operate in predictable ways
-- __Guideline 3.3__ - help users avoid and correct mistakes
+- **Guideline 3.1** - make text readable and understandable
+- **Guideline 3.2** - make web pages appear and operate in predictable ways
+- **Guideline 3.3** - help users avoid and correct mistakes
 
 
 ## Robust
 
-The __Robust__ principle ensures that content can be interpreted reliably by a wide variety of user agents and assistive technologies.
+The **Robust** principle ensures that content can be interpreted reliably by a wide variety of user agents and assistive technologies.
 
 
 ### Robust Guidelines:
-- __Guideline 4.1__ - maximize compatibility with current and future user agents, including assistive technologies
+- **Guideline 4.1** - maximize compatibility with current and future user agents, including assistive technologies
 
 
 ## Summary
