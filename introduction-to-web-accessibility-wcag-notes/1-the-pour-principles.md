@@ -1,16 +1,23 @@
 # The POUR Principles
 
-- There are four principles which categorize the guidelines for web content accessibility, abbreviated as POUR:
-    + Perceivable
-    + Operable
-    + Understandable
-    + Robust
+There are four principles which categorize the guidelines for web content accessibility, abbreviated as POUR:
+- Perceivable
+- Operable
+- Understandable
+- Robust
 
-- These principles make it quick to find relevant accessibility guidelines.
-- The categories can be thought of as a guide to show only the accesibility criteria for specific content.
-    + *Example* - Making text content accessible does not require meeting the criteria for making video content accessible.
-- For every guideline there are one or more individual success criteria
-- Within each success criteria are several situations and techniques describing when the success criteria can be applied.
+
+These principles make it quick to find relevant accessibility guidelines.
+
+
+The categories can be thought of as a guide to show only the accesibility criteria for specific content.
+- *Example* - Making text content accessible does not require meeting the criteria for making video content accessible.
+
+
+For every guideline there are one or more individual success criteria
+
+
+Within each success criteria are several situations and techniques describing when the success criteria can be applied.
 
 
 ## Perceivable
