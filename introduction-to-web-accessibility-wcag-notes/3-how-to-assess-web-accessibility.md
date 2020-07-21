@@ -48,7 +48,7 @@ _Example_: **2.4.6 Headings and Labels Level AA** does not provide failure crite
     2. Check that each heading identifies its section of the content
 
 
-Unfortunately, this leaves room for ambiguity.:
+Unfortunately, this leaves room for ambiguity:
 - _What are sections of content?_
 - _Is the heading text clear and understandable?_
 
