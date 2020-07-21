@@ -6,16 +6,17 @@ WCAG 2.1 success criteria has three levels of conformance:
 - Level AAA Conformance
 
 
-These levels refer to the level of technical complexity associated to execute, as well as the level of support it provides to users.
-
-
-Working out which level to aim for can be challenging.
+These levels refer to the level of technical complexity needed in their execution, as well as the level of support it provides to users. Working out which level to aim for can be challenging.
 
 
 To be conformant at a WCAG 2.1 level means implementing the success criterion at that level _and_ the level below.
 
 
-## Example of Increasing Levels:
+## Example of Increasing Levels
+
+
+For this example, let's look at Guideline 2.4, specifically at guidelines and success criteria at all three levels of conformity.
+
 
 **Guideline 2.4** - Provide ways to help users navigate, find content, and determine where they are.
 - 2.4.1 Bypass Blocks Level A
@@ -50,7 +51,7 @@ To be conformant at a WCAG 2.1 level means implementing the success criterion at
 - Level AAA criterion
 - A sufficient technique to pass is to provide a sitemap
 - Browsing websites in a non-visual way can become a large cognitive overhead
-- A sitemap assists users by providing a way to navigate to pages easier and out of sequence
+- A sitemap assists users by providing a way to navigate to pages more easily and out of sequence
 - The support it provides for a user is greater than Level A and Level AA
 - However, the implementation of a sitemap over a large website which has many workflows and combinations of workflows is a large technical challenge
 
@@ -63,7 +64,7 @@ By choosing greater conformance levels, more users with more diverse and complex
 The technical challenge to implement the success criteria is often greater.
 
 
-WCAG 2.1 Level AA conformance success criteria techniques are identified as prividing the greatest level of support for users whilst having a moderate technical impact.
+WCAG 2.1 Level AA conformance success criteria techniques are identified as providing the greatest level of support for users while having a moderate technical impact.
 
 
 WCAG 2.1 Level AA conformance is the minimum level to aim for.
@@ -71,9 +72,9 @@ WCAG 2.1 Level AA conformance is the minimum level to aim for.
 
 ## Aiming Higher
 
-Adding techniques at a higher conformance level can be useful, but here are some concerns and questions to ask about such an effort:
-- Identify how much effort is required to add a success criteria at Level AAA
-- Can more be accomplished by ensuring there is a greater converage of Level AA success criteria rahter than trying to incorporate a few Level AAA success criteria techniques?
+Adding techniques at a higher conformance level can be useful, but here are some questions to ask before engaging in such an effort:
+- How much effort is required to add a success criteria at Level AAA?
+- Can more be accomplished by ensuring there is a greater converage of Level AA success criteria rather than trying to incorporate a few Level AAA success criteria techniques?
 
 
 ## Summary
