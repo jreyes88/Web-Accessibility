@@ -28,7 +28,7 @@ Title page can be enhanced with added text, for example: "Step 2 - Online Orderi
 You can also append the website name to the end of each page title, so the user is aware of the page title, along with the website name.
 
 
-## WCAG 2.1 Satisfaction:
+## WCAG 2.1 Satisfaction
 
 - **G88:** Providing descriptive titles for Web Pages
 - **H25:** Providing a title using the title element
