@@ -3,10 +3,10 @@
 HTML traditionally lacked a way to provide structure to different regions of a page. `<div></div>` and `<span></span>` elements could be marked up with names such as nav, header, or footer to apply styles onto.
 
 
-HTNL5 landmarks mean areas can be marked up consistently, and structural information is exposed to screan readers. These landmarks only provide a benefit for screen reader users. There is no visible change to the way the page renders.
+HTML5 landmarks mean areas can be marked up consistently, and structural information is exposed to screen readers. These landmarks only provide a benefit for screen reader users. There is no visible change to the way the page renders.
 
 
-The most importan HTML5 landmark regions are:
+The most important HTML5 landmark regions are:
 - `<header></header>`
 - `<footer></footer>`
 - `<main></main>`
@@ -36,7 +36,7 @@ They act as containers for content.
 ## `<main></main>`
 
 - Describes the part of the webpage which has prominent content
-- Cannot be nested inside `<article>` region
+- Cannot be nested inside an `<article>` region
 - There can only be one `<main></main>` region per page
 
 
@@ -69,6 +69,6 @@ They act as containers for content.
 
 - HTML 5 landmarks are an accessibility feature that help identify the high-level regions of a page for screen reader users
 - They are not a replacement for skip links, but a further complementary way of navigating web content
-- The most important landmark elements are `<header></header>`, `<footer></footer>`, `<main></main>`, `<article></article>`, and `<nav></nav>`.
+- The most important landmark elements are `<header></header>`, `<footer></footer>`, `<main></main>`, `<article></article>`, and `<nav></nav>`
 
 
