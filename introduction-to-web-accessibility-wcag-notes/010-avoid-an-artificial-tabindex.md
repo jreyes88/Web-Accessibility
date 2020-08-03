@@ -106,7 +106,7 @@ _Example:_
 ```
 
 
-## Uses for `tabindex="1"` and Above
+## ~~Uses for~~ `tabindex="1"` and Above
 
 It's best to avoid `tabindex="1"` or above. Unless used _very carefully_ it can end up making a page really difficult to understand and navigate around.
 
