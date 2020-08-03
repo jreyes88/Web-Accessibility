@@ -63,3 +63,12 @@ They act as containers for content.
 -  **G115:** Using semanting elements to mark up structure
 -  **H97:** Grouping related links using the nav element
 -  **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation and can be programmatically determined or are available in text (level A)
+
+
+## Summary
+
+- HTML 5 landmarks are an accessibility feature that help identify the high-level regions of a page for screen reader users
+- They are not a replacement for skip links, but a further complementary way of navigating web content
+- The most important landmark elements are `<header></header>`, `<footer></footer>`, `<main></main>`, `<article></article>`, and `<nav></nav>`.
+
+
