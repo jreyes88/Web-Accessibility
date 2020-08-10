@@ -23,7 +23,6 @@ The following is an example that achieves this consistency as well as provides m
 a:focus, a:hover {
     text-decoration: underline;
     border: 4px solid #08495F;
-
 }
 
 ```
@@ -36,7 +35,14 @@ Form controls are different from links with how focus is applied. There isn't ju
 
 ```css
 
-input:focus, select:focus, textarea:focus, button:focus, input:hover, select:hover; textarea:hover, button:hover {
+input:focus,
+select:focus,
+textarea:focus,
+button:focus,
+input:hover,
+select:hover,
+textarea:hover,
+button:hover {
 
 }
 
@@ -47,7 +53,14 @@ The focus effect is different as well. The underline property doesn't work as yo
 
 ```css
 
-input:focus, select:focus, textarea:focus, button:focus, input:hover, select:hover; textarea:hover, button:hover {
+input:focus,
+select:focus,
+textarea:focus,
+button:focus,
+input:hover,
+select:hover,
+textarea:hover,
+button:hover {
     border: 4px solid #08495F;
 }
 
