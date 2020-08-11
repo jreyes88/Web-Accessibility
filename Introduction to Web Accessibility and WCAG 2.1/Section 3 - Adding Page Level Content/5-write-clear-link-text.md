@@ -28,10 +28,10 @@ The following would be a better example of clear link text:
 You can also remove redundant text. Screen readers will often identify a link and add the word "clickable" to the audible description.
 
 
-Link which begin "click here" are difficult to navigate using the links or elements list in a screen reader, which is a window which lists all links on a page separately in the screen reading software. All of the page links are listed alphabetically, so a user has to listen to each link in full to determine of the link is what they want to activate by hearing the last unique part of the link text.
+Links which begin "click here" are difficult to navigate using the links or elements list in a screen reader, which is a window that lists all of the links on a page separately in the screen reading software. All of the page links are listed alphabetically, so a user has to listen to each link in full to determine if the link is what they want to activate, in this case hearing the last unique part of the link text.
 
 
-Hearing link text spoken is a great way to determine if text is understandable on its own.
+Hearing link text spoken out loud is a great way to determine if text is understandable on its own.
 
 
 ## WCAG 2.1 Satisfaction
@@ -44,4 +44,4 @@ Hearing link text spoken is a great way to determine if text is understandable o
 
 - Unclear link text can make it difficult for screen reader users to navigate a website in a non-visual way
 - Use clear link text
-- The best way to determine if the link text chose in is clear by reading aloud
+- The best way to determine if the link text chosen is clear is by reading the link text aloud

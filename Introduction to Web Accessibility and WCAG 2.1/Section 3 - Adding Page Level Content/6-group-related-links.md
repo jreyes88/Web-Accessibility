@@ -12,7 +12,7 @@ Screen reader users navigate websites in a non-visual way. Links arranged visual
 The behavior is dependent on the assistive technology.
 
 
-Use the technique carefully and apply it only when necessary. Announcing the list type and element position adds to the audible overhead a screen reader has to understand. It can be fatiquing to hear.
+Use the technique carefully and apply it only when necessary. Announcing the list type and element position adds to the audible overhead a screen reader user has to understand. It can be fatiquing to hear.
 
 
 You need to make a judgment call:
