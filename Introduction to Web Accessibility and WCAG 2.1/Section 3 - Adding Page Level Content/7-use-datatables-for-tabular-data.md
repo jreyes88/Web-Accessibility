@@ -49,7 +49,7 @@ _Example:_
 ## WCAG 2.1 Satisfaction
 
 - **H51:** Using table markup to present tabular information
-- **H63:** Using the scope attribute to associated header cells and data cells in data tables
+- **H63:** Using the scope attribute to associate header cells and data cells in data tables
 - **1.3.1 Info and Relationships**: Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text (level A)
 
 
