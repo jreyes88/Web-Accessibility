@@ -36,7 +36,7 @@ Describe all constraints. All users benefit from knowing how data should be ente
 ## WCAG 2.1 Satisfaction
 
 - **G89:** Providing expected data format and example
-- **3.2.2 Labels or Instructions:** Labels or instructions are provided when content requires user input (level A)
+- **3.3.2 Labels or Instructions:** Labels or instructions are provided when content requires user input (level A)
 
 
 ## Summary
