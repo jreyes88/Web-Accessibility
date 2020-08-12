@@ -17,3 +17,14 @@
 4. [Create Logical Headings](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%202%20-%20Building%20the%20Structure%20of%20a%20Page/4-create-logical-headings.md)
 5. [Add HTML5 Landmark Regions](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%202%20-%20Building%20the%20Structure%20of%20a%20Page/5-add-html5-landmark-regions.md)
 6. [Avoid an Artificial TabIndex](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%202%20-%20Building%20the%20Structure%20of%20a%20Page/6-avoid-an-artificial-tabindex.md)
+
+
+## Section 3: Adding Page Level Content
+
+1. [Choose Accessible Colors](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/1-choose-accessible-colors.md)
+2. [Decorative & Descriptive Images](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/2-decorative-and-descriptive-images.md)
+3. [Use Semantic Elements](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/3-use-semantic-elements.md)
+4. [Add Keyboard and Mouse Focus](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/4-add-keyboard-and-mouse-focus.md)
+5. [Write Clear Link Text](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/5-write-clear-link-text.md)
+6. [Group Related Links](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/6-group-related-links.md)
+7. [Use Datatables for Tabular Data](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%203%20-%20Adding%20Page%20Level%20Content/7-use-datatables-for-tabular-data.md)
