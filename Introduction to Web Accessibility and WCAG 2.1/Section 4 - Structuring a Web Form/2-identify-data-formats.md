@@ -11,6 +11,7 @@ To help the user understand the format of data being entered and reduce the occu
     <label for="firstname">First Name (20 character maximum)</label>
     <input type="text" id="firstname" />
 </form>
+
 ```
 
 
@@ -27,3 +28,20 @@ Provide the constraint in parenthesis. For example, for the date of birth format
 </form>
 
 ```
+
+
+Describe all constraints. All users benefit from knowing how data should be entered. However, keep the constraint description succinct.
+
+
+## WCAG 2.1 Satisfaction
+
+- **G89:** Providing expected data format and example
+- **3.2.2 Labels or Instructions:** Labels or instructions are provided when content requires user input (level A)
+
+
+## Summary
+
+- Formatting and constraint information can be added to enhance an input control label
+- The first example described data length
+- The second example described the data format
+- Adding constraint information into a control's label can act as a nudge and help reduce avoidable errors
