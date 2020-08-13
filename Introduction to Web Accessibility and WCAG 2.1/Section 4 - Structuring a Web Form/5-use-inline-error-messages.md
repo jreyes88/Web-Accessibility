@@ -14,7 +14,7 @@ An accessible inline error message is contained within the label element and is 
 The addition of the inline error message is extending the accessibility support the control already has to now include an error message.
 
 
-The error message could be contained in a `<div>` or `<span>` element, and could be hidden by CSS until needed. When the control is in error, the CSS style is removed, making hte message visible and announced by the screen reader when the control is in focus.
+The error message could be contained in a `<div>` or `<span>` element, and could be hidden by CSS until needed. When the control is in error, the CSS style is removed, making the message visible and announced by the screen reader when the control is in focus.
 
 
 ```html
@@ -45,3 +45,7 @@ Because of this, an inline error message shouldn't be the only way to describe a
 
 
 ## Summary
+
+- Inline error messages must be programmatically associated to the control
+- One way is by wrapping the label element around the error message and using CSS to show it
+- Inline error messages should only be a complementary way of providing error feedback, and be combined with other techniques
