@@ -39,3 +39,48 @@
 5. [Use Inline Error Messages](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%204%20-%20Structuring%20a%20Web%20Form/5-use-inline-error-messages.md)
 6. [Suggest Corrections](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%204%20-%20Structuring%20a%20Web%20Form/6-suggest-corrections.md)
 7. [Use a Validation Summary](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%204%20-%20Structuring%20a%20Web%20Form/7-use-a-validation-summary.md)
+
+
+## Resources
+
+### On Twitter
+
+- [Ross Mullen](https://twitter.com/MrRossMullen)
+- [Marcy Sutton](https://twitter.com/marcysutton)
+- [Heydon Pickering](https://twitter.com/heydonworks)
+- [Steve Faulkner](https://twitter.com/stevefaulkner)
+- [InclusiveDesign24](https://twitter.com/id24conf)
+- [Bryan Garaventa](https://twitter.com/bryanegaraventa)
+- [Andy Ronksley](https://twitter.com/rooronks)
+- [Bruce Lawson](https://twitter.com/brucel)
+- [Leonie Watson](https://twitter.com/leoniewatson)
+- [Karl Groves](https://twitter.com/karlgroves)
+- [Richard Morton](https://twitter.com/accessibleweb)
+
+
+### Books
+
+- [Inclusive Components](https://www.smashingmagazine.com/printed-books/inclusive-components/)
+- [Inclusive Design Patterns](https://www.smashingmagazine.com/printed-books/inclusive-front-end-design-patterns/)
+- [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
+- [Practical Web inclusion and accessibility](https://inclusive.guide/)
+- [Inclusive design for products](https://www.hassellinclusion.com/book/)
+- [A Web for Everyone](https://rosenfeldmedia.com/books/a-web-for-everyone/)
+- [The Ability Hacks](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2018/08/theabilityhacksbook.pdf)
+- [Authentic Inclusion](https://franceswest.co/)
+- [Mismatch](https://katholmesdesign.com/)
+- [Structured Negotiations](https://www.lflegal.com/book/)
+- [Diversify](http://www.diversify.org/)
+
+
+### Websites and Blogs
+
+- [CANAXESS website](https://www.canaxess.com.au/)
+- [CANAXESS articles](https://www.canaxess.com.au/articles/)
+- [CSS tricks](https://css-tricks.com/)
+- [AlistApart](https://alistapart.com/blog/topic/accessibility/)
+- [Adrian Roselli](https://adrianroselli.com/)
+- [The Paciello Group](https://www.paciellogroup.com/blogs/)
+- [Smashing Magazine](https://www.smashingmagazine.com/category/accessibility)
+- [Caniuse](https://caniuse.com/)
+- [HTML5 Doctor](http://html5doctor.com/)
