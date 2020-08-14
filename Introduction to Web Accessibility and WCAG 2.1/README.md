@@ -1,13 +1,5 @@
 # Introduction to Web Accessibility and WCAG 2.1
 
-- Section 1: Overview
-- Section 2: Building the Structure of a Page
-- Section 3: Adding Page Level Content
-- Section 4 - Stucturing a Web Form
-- Resources
-- Instructor Contact Information
-- Certificate of Completion
-
 ## Section 1: Overview
 
 1. [WCAG 2.1 Overview, History, and Principles](https://github.com/jreyes88/Web-Accessibility/blob/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1/Section%201%20-%20Overview/1-wcag-overview-history-and-principles.md)
