@@ -28,5 +28,5 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 ### Screen Readers in the Wild
 - A virtual workshop I attended on January 25, 2021, put on by [Knowbility](https://knowbility.org/)
 - Featured two screen reader users, demoing the use of various websites and how their assistive technology interacted with those sites
-- Notes can be found [here](#)
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Screen%20Readers%20in%20the%20Wild)
 - Online details can be found [here](https://knowbility.org/services/online-training/2021/january/screen-readers-in-the-wild/)
