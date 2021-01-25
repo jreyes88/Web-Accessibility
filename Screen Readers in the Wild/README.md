@@ -1,30 +1,24 @@
 # Screen Readers in the Wild
 
-Hosted by Becky Gibson  
-Moderated by Emily Lewis  
+## Panel
 
-
-## Becky Gibson
-
-- 30+ year at IBM as a developer
-- 20+ years focusing on accessibility
-- W3C contributor - WCAG, ARIA, APA
-- Passionate about making Web usable for all
-
-
-## Anthony Vasquez
-
-- Teaches journalism at Cal State Long Beach
-- MA in East Asian Studies
-- Degrees in Journalism and Chinese Studies
-- Blind and uses screen readers and braille devices on desktop and mobile
-
-
-## Su Park
-
-- Pursing a degree in Computer Science
-- Interested in transitioning to Information Security
-- Native screen reader user and experienced accessibility tester
+- Becky Gibson
+    + Host
+    + 30+ year at IBM as a developer
+    + 20+ years focusing on accessibility
+    + W3C contributor - WCAG, ARIA, APA
+    + Passionate about making Web usable for all
+- Emily Lewis
+    + Moderator
+- Anthony Vasquez
+    + Teaches journalism at Cal State Long Beach
+    + MA in East Asian Studies
+    + Degrees in Journalism and Chinese Studies
+    + Blind and uses screen readers and braille devices on desktop and mobile
+- Su Park
+    + Pursing a degree in Computer Science
+    + Interested in transitioning to Information Security
+    + Native screen reader user and experienced accessibility tester
 
 
 ## Agenda
@@ -104,7 +98,7 @@ Moderated by Emily Lewis
 **Video:** [Navigating YouTube Playlist with JAWS](https://vimeo.com/502344993/f8938fe260)
 
 - Headings
-    + Went from <h1> to <h3>
+    + Went from `<h1>` to `<h3>`
     + Not necessarily a WCAG failure since it was still heirarchical
 - Buttons and Links
     + These were all well-labeled

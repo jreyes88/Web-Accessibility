@@ -2,18 +2,19 @@
 
 Hosted by Nicholas Steenhout
 
-## Structure
 
-- **1st Hour:** the background and why
-- **2nd & 3rd Hours:** Testing methods overview
-
-
-## Nicholas Steenhout
+**Nicholas Steenhout**
 
 - Blog: [https://incl.ca](https://incl.ca)
 - Twitter: [@vavroom](https://twitter.com/vavroom)
 - Email: [nic@incl.ca](mailto:nic@incl.ca)
 - Podcast: [https://a11yrules.com](https://a11yrules.com)
+
+
+## Structure
+
+- **1st Hour:** the background and why
+- **2nd & 3rd Hours:** Testing methods overview
 
 
 ## Disclaimer
