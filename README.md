@@ -13,10 +13,20 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 
 ## Trainings and Resources
 
-[**Hands on Training Accessibility Testing Workshop**](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/)
+### Hands on Training Accessibility Testing Workshop
 - This was a morning workshop I attended on April 2, 2020, put on by [Knowbility](https://knowbility.org/), and hosted by [Nicolas Steenhout](https://twitter.com/vavroom).
 - Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Hands%20on%20Training%20Accessibility%20Testing%20-%20Virtual%20Workshop).
+- Online details can be found [here](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/).
 
-[**Introduction to Web Accessibility WCAG 2.1**](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/)
+
+### Introduction to Web Accessibility WCAG 2.1
 - A Udemy course taught by Ross Mullen, director of CANAXESS.
 - Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1).
+- Online course can be found [here](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/).
+
+
+### Screen Readers in the Wild
+- A virtual workshop I attended on January 25, 2021, put on by [Knowbility](https://knowbility.org/)
+- Featured two screen reader users, demoing the use of various websites and how their assistive technology interacted with those sites
+- Notes can be found [here](#)
+- Online details can be found [here](https://knowbility.org/services/online-training/2021/january/screen-readers-in-the-wild/)
