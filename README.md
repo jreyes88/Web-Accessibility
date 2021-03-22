@@ -36,5 +36,5 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 - A webinar I attended on March 22, 2021, put on by [Knowbility](https://knowbility.org/)
 - Implementation guidelines to make websites and web applications more accessible
     + Covered HTML, ARIA, and some CSS guidelines and best practices
-- Notes can be found here
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Implementing%20Accessible%20Solutions%20-%20Screen%20Readers)
 - Online details can be found [here](https://knowbility.org/services/online-training/2021/march/implementing-accessible-solutions-screen-readers/)
