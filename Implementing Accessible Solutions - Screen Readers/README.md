@@ -88,7 +88,7 @@ The **Accessible Name** is the name that assistive technologies communicate to u
     + Example: `img "[alt value]"`
     + Computed Properties
         * alt: provided by `alt` attribute
-        * the naming options presented are a heirarchy.
+        * the naming options presented are a hierarchy.
             - Higher up takes precedence over lower options
 - `alt=""`
     + Accessibility Tree will say "ignored"
@@ -98,7 +98,7 @@ The **Accessible Name** is the name that assistive technologies communicate to u
     + This is inaccessible
 
 
-**ARIA Naming Options are a Heirarchy**. ARIA will overwrite the `alt` attribute text.
+**ARIA Naming Options are a Hierarchy**. ARIA will overwrite the `alt` attribute text.
 
 
 ## All Examples on CodePen
@@ -152,7 +152,7 @@ This is for things that don't have native HTML solutions.
 - Use it when there is not visible text available for an element
 - Does not work consistently on all elements (like `<div>` or `<span>`)
 - Will overwrite content - use with extreme caution!
-    + Higher in Accessibility Tree heirarchy
+    + Higher in Accessibility Tree hierarchy
 - Spell things correctly, not phonetically
 - Format: `aria-label="value"`
 
@@ -173,7 +173,7 @@ This is for things that don't have native HTML solutions.
 - Use to associate visible text with the element
 - Does not work consistently on all elements (like `<div>` or `<span>`)
 - Will overwrite content - use with extreme caution!
-    + Higher in Accessibility Tree heirarchy
+    + Higher in Accessibility Tree hierarchy
 - format: `aria-labelledby="id1 id2 id3"` - space separated id values
 
 
