@@ -1,15 +1,24 @@
 # Collaboration and Remote Work
 
-It takes everyone thinking about delivering accessible experiences for everyone for remote work and client experiences.
+## Speakers
 
-Make sure content can be consumed by everyone
+- **Kathy Dixon**, Senior Product Marketing Manager for Accessibility | Microsoft
+- **Clint Covington**, Principal Program Manager | Microsoft
+- **Corina Arama**, Senior Program Manager | Microsoft
+- **Sharon Grimshaw**, Senior Program Manager | Microsoft
+
+
+It takes everyone thinking about delivering accessible experiences across remote work and client experiences.
+
+Make sure content can be consumed by everyone.
 
 Basics:
-- Understand what's in there, look for keywords, and navigate
-- Can comprehend message that's trying to be conveyed by that content
+- Users should be able to understand what's in a document/slide deck/PDF/etc., look for keywords, and navigate
+- Users should be able to comprehend message that's trying to be conveyed by that content
 
 
 ## Comparison of Poorly Formatted Documents vs. Those with formatting
+
 - Long documents without headings can be hard to comprehend for screen reader users
 - Images without descriptions fail to convey meaning
 - Tables with merged cells may introduce cognitive overload and confuse screen readers
