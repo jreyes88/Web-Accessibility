@@ -3,13 +3,22 @@
 Current society in context of AAPI violence and George Floyd murder, the intersection between race and disability is an important conversation.
 
 
-## Speakers
+## Presenters
 
-- **Heather Dowdy**, Grantee Relationship PM at Microsoft | Microsoft
-- **Dr. LaMondre Pough**, (he/him) Chief Sustainability Officer of Ruh Global IMPACT and the Chief Executive Officer of Billion Strong
-- **Reyma McCoy McDeid**, (she/her) Activist
-- **Lydia X.Z. Brown**, (they/them) Policy Counsel for Privacy & Data at the Center for Democracy & Technology
+- Heather Dowdy
+    + Grantee Relationship PM at Microsoft | Microsoft
+- Dr. LaMondre Pough
+    + (he/him)
+    + Chief Sustainability Officer of Ruh Global IMPACT and the Chief Executive Officer of Billion Strong
+- Reyma McCoy McDeid
+    + (she/her)
+    + Activist
+- Lydia X.Z. Brown
+    + (they/them)
+    + Policy Counsel for Privacy & Data at the Center for Democracy & Technology
 
+
+## Describe How the Intersection of Race and Disability Affects Your Life
 
 **Dr. LaMondre Pough**: People say to him, "You're so smart and talented! When I see you, I don't see your disability". But what they're saying is "I don't see a part of you. There's no way you can be smart and talanted but still have a disability." That remark is rooted in the concept that there's something wrong or broken about having a disability. But the truth is, that disability *does* come to the table with a disabled person. In order to be able to make a positive change in the world, he needs to show up as a total person, with his smarts, his melanin, and his disability.
 

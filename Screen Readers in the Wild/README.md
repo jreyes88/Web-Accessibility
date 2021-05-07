@@ -4,7 +4,7 @@
 
 - Becky Gibson
     + Host
-    + 30+ year at IBM as a developer
+    + 30+ years at IBM as a developer
     + 20+ years focusing on accessibility
     + W3C contributor - WCAG, ARIA, APA
     + Passionate about making Web usable for all

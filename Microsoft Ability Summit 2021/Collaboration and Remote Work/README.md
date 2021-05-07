@@ -1,12 +1,18 @@
 # Collaboration and Remote Work
 
-## Speakers
+## Presenters
 
-- **Kathy Dixon**, Senior Product Marketing Manager for Accessibility | Microsoft
-- **Clint Covington**, Principal Program Manager | Microsoft
-- **Corina Arama**, Senior Program Manager | Microsoft
-- **Sharon Grimshaw**, Senior Program Manager | Microsoft
+- Kathy Dixon
+    + Senior Product Marketing Manager for Accessibility | Microsoft
+- Clint Covington
+    + Principal Program Manager | Microsoft
+- Corina Arama
+    + Senior Program Manager | Microsoft
+- Sharon Grimshaw
+    + Senior Program Manager | Microsoft
 
+
+## Basics of Accessible Remote Work and Collaboration
 
 It takes everyone thinking about delivering accessible experiences across remote work and client experiences.
 

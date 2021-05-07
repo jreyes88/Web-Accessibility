@@ -3,14 +3,20 @@
 Building a product is like planning and throwing a party.
 
 
-## Speakers
+## Presenters
 
-- **Sana Ajani**, Program Manager 2 | Microsoft
-- **John Alkire**, Software Engineer 2 | Microsoft
-- **Fernanda Bonnin**, Program Manager 2 | Microsoft
-- **Sep DiMeglio**, Customer Engineer | Microsoft
-- **Dante Gagne**, Senior Program Manager | Microsoft
-- **Isidor Nikolic**, Senior Software Engineer | Microsoft
+- Sana Ajani
+    + Program Manager 2 | Microsoft
+- John Alkire
+    + Software Engineer 2 | Microsoft
+- Fernanda Bonnin
+    + Program Manager 2 | Microsoft
+- Sep DiMeglio
+    + Customer Engineer | Microsoft
+- Dante Gagne
+    + Senior Program Manager | Microsoft
+- Isidor Nikolic
+    + Senior Software Engineer | Microsoft
 
 
 ## Phases of Product Development

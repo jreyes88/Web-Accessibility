@@ -1,10 +1,10 @@
 # Implementing Accessible Solutions: Screen Readers
 
-## Instructor
+## Presenter
 
 - Alicia Evans (she/her/hers)
-- [alicia@knowbility.org](mailto:alicia@knowbility.org)
-- [linkedin.com/in/aliciaadamsevans/](https://linkedin.com/in/aliciaadamsevans/)
+    - [alicia@knowbility.org](mailto:alicia@knowbility.org)
+    - [linkedin.com/in/aliciaadamsevans/](https://linkedin.com/in/aliciaadamsevans/)
 
 
 ## This Presentation *Is*

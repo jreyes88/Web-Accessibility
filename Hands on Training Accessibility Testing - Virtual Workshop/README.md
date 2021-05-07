@@ -1,14 +1,12 @@
 # Hands on Training Accessibility Testing - Virtual Workshop
 
-Hosted by Nicholas Steenhout
+## Presenter
 
-
-**Nicholas Steenhout**
-
-- Blog: [https://incl.ca](https://incl.ca)
-- Twitter: [@vavroom](https://twitter.com/vavroom)
-- Email: [nic@incl.ca](mailto:nic@incl.ca)
-- Podcast: [https://a11yrules.com](https://a11yrules.com)
+- Nicholas Steenhout
+    + Blog: [https://incl.ca](https://incl.ca)
+    + Twitter: [@vavroom](https://twitter.com/vavroom)
+    + Email: [nic@incl.ca](mailto:nic@incl.ca)
+    + Podcast: [https://a11yrules.com](https://a11yrules.com)
 
 
 ## Structure

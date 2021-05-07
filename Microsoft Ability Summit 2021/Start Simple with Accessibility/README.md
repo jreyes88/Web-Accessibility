@@ -1,12 +1,15 @@
 # Start Simple with Accessibility
 
-## Speakers
+## Presenters
 
-- **Jen Smith**, Senior Program Manager | Microsoft
+- Jen Smith
+    + Senior Program Manager | Microsoft
     + @JenniAynLynn
-- **Natalie Patrice Tucker**, Senior Accessibility Lead | Spotify
+- Natalie Patrice Tucker
+    + Senior Accessibility Lead | Spotify
     + @NataliePatriceT
-- **Lori Samuels**, Accessibility Director for NBC Universal
+- Lori Samuels
+    + Accessibility Director for NBC Universal
     + @LoriSamuels18
 
 
