@@ -356,7 +356,7 @@ Context is everything from your users to content on the page to business goals t
 **A:** Generally speaking, there is no limit. But you do want to keep in mind that `alt` text is supposed to be general, at a glance info about an image. Anything beyond that should direct you to using an Extended Description. Use full sentences and punctuation if that's necessary to describe the image.
 
 
-**Q:** How do you handle `alt` text for really complicated infographics or technical charts?
+**Q:** How do you handle `alt` text for really complicated infographics or technical charts?  
 **A:** Alt text describes the image at a high level, and the Extended Description will have the complicated data, tables, links to Excel spreadsheets, descriptions in various paragraphs.
 
 
