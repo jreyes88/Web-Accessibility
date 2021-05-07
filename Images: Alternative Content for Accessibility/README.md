@@ -12,7 +12,7 @@
 - Anthony Vasquez
     + Communication Specialist, Accessibility Tester | Knowbility
     + Journalism Instructor - Cal State Long Beach
-    + Screan reader expert
+    + Screen reader expert
     + [avasquez@knowbility.org](mailto:avasquez@knowbility.org)
 
 
@@ -349,10 +349,10 @@ Context is everything from your users to content on the page to business goals t
 ## Questions
 
 **Q:** When would you use the [`longdesc` attribute](https://www.w3schools.com/tags/att_img_longdesc.asp)?  
-**A:** It's very rare and somewhat clunky. Basically avoide it.
+**A:** It's very rare and somewhat clunky. Basically avoid it.
 
 
-**Q:** How long should the text be in an an `alt` attribute?  
+**Q:** How long should the text be in an `alt` attribute?  
 **A:** Generally speaking, there is no limit. But you do want to keep in mind that `alt` text is supposed to be general, at a glance info about an image. Anything beyond that should direct you to using an Extended Description. Use full sentences and punctuation if that's necessary to describe the image.
 
 

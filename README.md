@@ -5,10 +5,10 @@ _Web Accessibility_ is the inclusive practice of making websites usable by every
 
 >"The power of the Web is in its universality. Access by everyone, regardless of disability, is an essential aspect."
 
-\- Tim Berners-Lee, W3C Directior, and inventor of the World Wide Web.
+\- Tim Berners-Lee, W3C Director, and inventor of the World Wide Web.
 
 
-I'm aiming be a better web developer by improving my knowledge of web accessibility and putting what I learn into practice. This repo is meant to be a place where I compile notes about web accessibility for easy reference and recall. This is a living document that I will update as I do various trainings, learn new things, or implement and improve old ones. Pull requests are welcome.
+I'm aiming to be a better web developer by improving my knowledge of web accessibility and putting what I learn into practice. This repo is meant to be a place where I compile notes about web accessibility for easy reference and recall. This is a living document that I will update as I do various trainings, learn new things, or implement and improve old ones. Pull requests are welcome.
 
 
 ## Trainings and Resources
@@ -16,7 +16,7 @@ I'm aiming be a better web developer by improving my knowledge of web accessibil
 ### Images: Alternative Content for Accessibility
 
 - This was a workshop put on by [Knowbility](https://knowbility.org/), detailing best practices for `alt` text, extended descriptions, and alternative content to visual web materials.
-- Notes can be found [here]()
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Images:%20Alternative%20Content%20for%20Accessibility)
 - Online details can be found [here](https://knowbility.org/services/online-training/image-alternatives)
 
 
