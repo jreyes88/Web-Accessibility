@@ -3,7 +3,7 @@
 Form controls often have a text label adjacent to the control, which gives the user a hint as to what type of information is required. However, relying only on the physical placement means that screen reader users won't understand what data is required.
 
 
-When a label receives focus, a screen reader only announces the type of input control, not the adjacent label. The screen reader may announce "input type and text", not that it is for a first name. If a label is not programmatically associated to the control, the label remains unannounced.
+When a label receives focus, a screen reader only announces the type of input control, not the adjacent label. The screen reader may announce "input type and text", not that it is for a first name. If a label is not programmatically associated with the control, the label remains unannounced.
 
 
 Creating a relationship between a `<label>` element and an input control overcomes this issue. The `for` attribute value of the label element uses the `id` of the form control:
@@ -48,17 +48,17 @@ The following form controls **do not** require a `<label>` as the text descripti
     + `<button type="button">Add to Basket</button>`
 
 
-An additional benefit of progammatically associating a label to a form control is that it provides a larger clickable area for the control. Activation can now happen either from the label or the control. This is helpful for users with dexterity issues.
+An additional benefit of programmatically associating a label to a form control is that it provides a larger clickable area for the control. Activation can now happen either from the label or the control. This is helpful for users with dexterity issues.
 
 
 ## WCAG 2.1 Satisfaction
 
 - **H44:** Using label elements to associate text labels with form controls
-- **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation can be progammatically determined or are available in text (level A)
+- **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text (level A)
 
 
 ## Summary
 
-- Progammatically associated labels are a nice quick win to improve the accessibility of online forms
+- Programmatically associated labels are a nice quick win to improve the accessibility of online forms
 - Associate a label to a form control using the `for` and `id` attributes
 - Some form controls require a label and some don't

@@ -19,17 +19,17 @@ Web Content Accessibility Guidelines (WCAG) is part of a series of web standards
 
 ## History of Web Accessibility
 
-- _January 1995_: First web accessibility guidelines was published by Gregg Vanderheiden.
+- _January 1995_: First web accessibility guidelines were published by Gregg Vanderheiden.
 - _May 5, 1999_: Web Content Accessibility Guidelines (WCAG) version 1.0 was published, based on unification of various accessibility guidelines written in previous years.
     + WCAG 1.0 consisted of 14 guidelines.
     + Each guideline covered a basic theme of accessibility and one or more checkpoints.
     + Within the 14 guidelines were 65 checkpoints which had a priority rating assigned, describing its impact:
-        * Priority 1: Developers **must** satisfy this requirement as one or more groups **will** find it impossibile to access web content
+        * Priority 1: Developers **must** satisfy this requirement as one or more groups **will** find it impossible to access web content
         * Priority 2: Developers **should** implement this requirement as one or more groups **may** find it difficult to access web content
-        * Priority 3: Developers **may** implement this requrirement to make it easier for **some** groups to access web content
+        * Priority 3: Developers **may** implement this requirement to make it easier for **some** groups to access web content
 - _December 11, 2008_: WCAG 1.0 was updated to WCAG 2.0.
     + WCAG 2.0 consisted of 12 guidelines, organised under 4 principles:
-        * Perceivabl
+        * Perceivable
         * Operable
         * Understandable
         * Robust

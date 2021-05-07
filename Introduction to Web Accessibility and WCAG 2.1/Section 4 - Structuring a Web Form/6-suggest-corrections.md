@@ -36,7 +36,7 @@ Any specific formatting requirement must be conveyed in the error message. Descr
 
 ## Scenario 3: Limited Responses
 
-When the information provided by a user is one of a limited set of value, ensure that the error message conveys this, explaining why the value was rejected, and the limited number of allowable responses.
+When the information provided by a user is one of a limited set of values, ensure that the error message conveys this, explaining why the value was rejected, and the limited number of allowable responses.
 
 
 ```html

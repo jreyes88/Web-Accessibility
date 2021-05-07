@@ -62,6 +62,6 @@ _Example:_
 
 ## Summary
 
-- Heading elements provide a navigable hierarchy for screen reader and other assitive technology users
+- Heading elements provide a navigable hierarchy for screen reader and other assistive technology users
 - The heading elements must be in sequence otherwise the hierarchy will be difficult to understand
 - Use as many heading levels as appropriate for your content

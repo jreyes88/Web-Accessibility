@@ -91,7 +91,7 @@ _Example:_
 ```html
 
 <blockquote cite="www.ACME.com/message.">
-    We've perfected makin great outfits for everyone.
+    We've perfected making great outfits for everyone.
     <cite>ACME fashion house directors message</cite>
 </blockquote>
 
@@ -120,7 +120,7 @@ Compare the following:
 
 ## Time
 
-The `<time>` element allows content which displays a date, time, or duration to marked up via the ISO 8601 standard.
+The `<time>` element allows content which displays a date, time, or duration to be marked up via the ISO 8601 standard.
 
 
 While people can understand dates and times in any number of ways, machines can't. The `<time>` element is a consistent and unambiguous way to provide dates and times, which means assistive technologies will reliably read it as it's presented in a machine-readable format.

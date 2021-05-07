@@ -74,7 +74,7 @@ WCAG 2.1 Level AA conformance is the minimum level to aim for.
 
 Adding techniques at a higher conformance level can be useful, but here are some questions to ask before engaging in such an effort:
 - How much effort is required to add a success criteria at Level AAA?
-- Can more be accomplished by ensuring there is a greater converage of Level AA success criteria rather than trying to incorporate a few Level AAA success criteria techniques?
+- Can more be accomplished by ensuring there is a greater coverage of Level AA success criteria rather than trying to incorporate a few Level AAA success criteria techniques?
 
 
 ## Summary
@@ -88,5 +88,5 @@ Adding techniques at a higher conformance level can be useful, but here are some
 
 - [Guideline 2.4 Navigable](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#navigable)
 - [2.4.1 Bypass Blocks - Level A](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#qr-navigation-mechanisms-skip)
-- [2.4.6 Headings and Lavels - Level AA](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#qr-navigation-mechanisms-descriptive)
+- [2.4.6 Headings and Labels - Level AA](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#qr-navigation-mechanisms-descriptive)
 - [2.4.8 Location - Level AAA](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#qr-navigation-mechanisms-location)

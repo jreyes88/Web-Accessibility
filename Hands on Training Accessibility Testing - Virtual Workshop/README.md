@@ -42,7 +42,7 @@
 - Perhaps the largest minority out there
 - That doesn’t mean that 1 in 4 people have a condition that impacts their use of the web
 - However the number game is a losing battle, once you start breaking down those numbers
-    + “1 in 8 men are colorblind” but how what type of colorblindness?
+    + “1 in 8 men are colorblind” but what type of colorblindness?
 - What browsers you support is probably a more important questions
 
 
@@ -74,7 +74,7 @@ This workshop will focus on desktop, but much of it will be cross-device friendl
 ### Situational Impairment
 
 - Holding a baby
-- Cerebral Palsey hard to do fine movements
+- Cerebral Palsy hard to do fine movements
 - On the bus, it’s shaky, big hands and small check boxes
 - Non-native language speakers
 - People who are born deaf are truly ESL users
@@ -103,7 +103,7 @@ There are very few websites that can meet AAA levels of accessibility, but you s
 Meeting AA level is totally possible.
 
 
-Heirarchy of WCAG:
+Hierarchy of WCAG:
 - 3 Levels
 - 4 Principles
 - 13 Guidelines

@@ -72,7 +72,7 @@ May be implemented using `<img>` `<canvas>` `<svg>` tags, or also in epubs.
 ### Alt Text
 
 - General, informative sentence
-- Provides accessibile name for images
+- Provides accessible name for images
 - Can provide accessible name for controls that contains images
 - Screen readers announce this alt text to users
 

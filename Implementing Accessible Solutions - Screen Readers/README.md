@@ -48,7 +48,7 @@
 
 ### What Are Screen Readers?
 
-"A **Screen Reader** is a form of assistive techonology (AT) that renders text and image content as speech or braille output."
+"A **Screen Reader** is a form of assistive technology (AT) that renders text and image content as speech or braille output."
 - Wikipedia Definition
 
 
@@ -140,7 +140,7 @@ The **Accessible Name** is the name that assistive technologies communicate to u
 ARIA stands for **Accessible Rich Internet Applications**.
 
 
-WAI-ARIA, the Accessible Rich Internet Applications, defines a way to make Web content and Web apps more accessible to people with diabilities. It especially helps with dynamic content and advanced user interface controls developed with HTML, JavaScript, and related technologies.
+WAI-ARIA, the Accessible Rich Internet Applications, defines a way to make Web content and Web apps more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with HTML, JavaScript, and related technologies.
 
 
 This is for things that don't have native HTML solutions.

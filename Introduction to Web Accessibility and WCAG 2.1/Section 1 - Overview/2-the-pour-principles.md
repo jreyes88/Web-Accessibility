@@ -10,7 +10,7 @@ There are four principles which categorize the guidelines for web content access
 These principles make it quick to find relevant accessibility guidelines.
 
 
-The categories can be thought of as a guide to show only the accesibility criteria for specific content.
+The categories can be thought of as a guide to show only the accessibility criteria for specific content.
 - _Example_ - Making text content accessible does not require meeting the criteria for making video content accessible.
 
 

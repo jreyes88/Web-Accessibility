@@ -39,7 +39,7 @@ There is an emotional aspect to accessibility work. If you don't know if your we
 - You'll find out your product sucks for people with disabilities
 - You'll feel badly
 - You'll be overwhelmed and confused and not know where to start
-- That's why we're doing this presentaiton
+- That's why we're doing this presentation
 - Eventually things will get better
 - You might even begin to feel confident about accessibility
 
@@ -168,7 +168,7 @@ This is a deep topic, but once you practice and understand the patterns for solu
 
 ### Verify with a Screen Reader
 
-- Read through with a screen reader to ensure there is accesss to the same meaning, functionality, and content that is presented visually
+- Read through with a screen reader to ensure there is access to the same meaning, functionality, and content that is presented visually
 - Check for consistency, ease of navigation, hidden elements receiving focus
 - Learn a few basic commands for your preferred screen reader
 - Recommended combinations:

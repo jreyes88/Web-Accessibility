@@ -9,10 +9,10 @@ Without a clear focus indicator, it becomes a guessing game of what element is i
 The default browser caret focus helps, but is often difficult to identify (it may be a faint dotted line), and varies from browser to browser.
 
 
-Relying on a change of color alone means it can be dfificult to identify with a color vision impairment. Additional style must be applied to mouse hover and keyboard tab events. This could be underlined text or a prominent border.
+Relying on a change of color alone means it can be difficult to identify with a color vision impairment. Additional style must be applied to mouse hover and keyboard tab events. This could be underlined text or a prominent border.
 
 
-A good principle to apply that achieves consistency is that if a promiment focus effect is applied by mouse focus, this same effect should be applied by keyboard focus.
+A good principle to apply that achieves consistency is that if a prominent focus effect is applied by mouse focus, this same effect should be applied by keyboard focus.
 
 
 The following is an example that achieves this consistency as well as provides multiple visual emphases across mouse and keyboard focus.

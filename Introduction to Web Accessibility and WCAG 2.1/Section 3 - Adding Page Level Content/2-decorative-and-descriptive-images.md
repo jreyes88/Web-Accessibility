@@ -7,7 +7,7 @@
 When an image has no `ALT` attribute it means a text description (if required) can't be provided. A screen reader uses the value of the `ALT` attribute of the image element to provide a text description for the user.
 
 
-If an image has no `ALT` attribute, the screen reader will announce "image". The user is aware that an image is there, it maybe relevant, it may not be, but they are left uncertain
+If an image has no `ALT` attribute, the screen reader will announce "image". The user is aware that an image is there, it may be relevant, it may not be, but they are left uncertain
 
 
 _Example:_ `<img src="someimg.png" alt="" />`

@@ -1,6 +1,6 @@
 # Group Related Controls
 
-The way that form controls are grouped together on screen can help enhance understanding of the relationship between those controls. A collection of dropdowns for a date of birth maybe be visually understandable when they are adjacent to one another. However, if a user cannot perceive this grouping visually, that user will only hear the labels and it may not be clear how they relate to each other.
+The way that form controls are grouped together on screen can help enhance understanding of the relationship between those controls. A collection of dropdowns for a date of birth may be be visually understandable when they are adjacent to one another. However, if a user cannot perceive this grouping visually, that user will only hear the labels and it may not be clear how they relate to each other.
 
 
 Grouping controls together semantically can help a screen reader user understand how components relate to each other. To identify related controls, use the `<fieldset>` and `<legend>` elements, which provide a description for the whole group. This grouping mechanism triggers a screen reader to announce the `<legend>` text before the label text of each control.
@@ -55,7 +55,7 @@ Grouping controls is most important for radio buttons and checkboxes. The indivi
 ## WCAG 2.1 Satisfaction
 
 - **H71:** Providing a description for groups of form controls using fieldset and legend elements
-- **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation can be progammatically determined or are available in text (level A)
+- **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text (level A)
 
 
 ## Summary

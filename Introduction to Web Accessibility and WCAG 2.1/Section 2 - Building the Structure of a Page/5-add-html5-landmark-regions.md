@@ -60,7 +60,7 @@ They act as containers for content.
 
 ## WCAG 2.1 Satisfaction
 
--  **G115:** Using semanting elements to mark up structure
+-  **G115:** Using semantic elements to mark up structure
 -  **H97:** Grouping related links using the nav element
 -  **1.3.1 Info and Relationships:** Information, structure, and relationships conveyed through presentation and can be programmatically determined or are available in text (level A)
 

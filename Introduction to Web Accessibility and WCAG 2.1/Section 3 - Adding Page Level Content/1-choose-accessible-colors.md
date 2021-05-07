@@ -1,6 +1,6 @@
 # Choose Accessible Colors
 
-A poor color countrast can affect users with ac olor vision impairment to discern information. Even if no impairment exists, content viewed in low light or high contrast environments can be difficult to see.
+A poor color contrast can affect users with a color vision impairment to discern information. Even if no impairment exists, content viewed in low light or high contrast environments can be difficult to see.
 
 
 **Choosing a good color contrast benefits everyone.**
@@ -36,7 +36,7 @@ Color contrast tools make it very quick to work out acceptable color combination
 ## Summary
 
 - An accessible color contrast is crucial for everyone, not just for those users who have impairments
-- The WCAG 2.1 AA color contrast success criter is confusing
+- The WCAG 2.1 AA color contrast success criteria is confusing
 - Use an external tool to make choosing combinations easier
 
 

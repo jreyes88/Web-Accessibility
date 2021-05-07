@@ -16,7 +16,7 @@
     + Degrees in Journalism and Chinese Studies
     + Blind and uses screen readers and braille devices on desktop and mobile
 - Su Park
-    + Pursing a degree in Computer Science
+    + Pursuing a degree in Computer Science
     + Interested in transitioning to Information Security
     + Native screen reader user and experienced accessibility tester
 
@@ -99,7 +99,7 @@
 
 - Headings
     + Went from `<h1>` to `<h3>`
-    + Not necessarily a WCAG failure since it was still heirarchical
+    + Not necessarily a WCAG failure since it was still hierarchical
 - Buttons and Links
     + These were all well-labeled
     + Also had shortcut key which added extra text for the screen reader
@@ -114,7 +114,7 @@
 
 **Video:** [Navigating Google Search with NVDA](https://knowbility.org/blog/2019/skip-links/)
 
-- Very good heading heirarchy
+- Very good heading hierarchy
 - Some headers hidden visually but still present for screen readers' benefit
 
 

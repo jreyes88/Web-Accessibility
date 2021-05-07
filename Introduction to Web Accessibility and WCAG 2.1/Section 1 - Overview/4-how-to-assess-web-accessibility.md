@@ -40,7 +40,7 @@ Expected Results:
 
 ## When Failure Criterion Is Not Provided
 
-Some tests do no provide failure criteria. Instead, use the tests from any of the sufficient techniques applied.
+Some tests do not provide failure criteria. Instead, use the tests from any of the sufficient techniques applied.
 
 _Example_: **2.4.6 Headings and Labels Level AA** does not provide failure criteria.
 - G130: Providing Descriptive Headings
@@ -53,7 +53,7 @@ Unfortunately, this leaves room for ambiguity:
 - _Is the heading text clear and understandable?_
 
 
-Tests must not be carried out in isolation either. Think of each test as one of series of tests that components must undergo.
+Tests must not be carried out in isolation either. Think of each test as one of a series of tests that components must undergo.
 
 
 ## Summary

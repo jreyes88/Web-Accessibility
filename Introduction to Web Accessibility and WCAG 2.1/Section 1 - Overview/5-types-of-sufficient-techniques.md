@@ -39,7 +39,7 @@ The General Technique discusses why a technique is required and beneficial and i
 ## Approaching These Techniques
 
 - For the majority of sufficient techniques, you'll only ever rely on HTML, CSS, and Clientside Scripting techniques
-- When websites become more complex, ARIA will be come a technique that will be begin to be used more
+- When websites become more complex, ARIA will become a technique that will be begin to be used more
 
 
 ## Summary

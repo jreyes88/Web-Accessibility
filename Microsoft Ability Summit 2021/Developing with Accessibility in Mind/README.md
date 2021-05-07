@@ -42,7 +42,7 @@ Building a product is like planning and throwing a party.
 
 - High color contrast
 - Multiple visible indicators for all components
-    + Shopping website with add to card button, which has a shopping cart icon, strong color, and the words "add to cart"
+    + Shopping website with add to cart button, which has a shopping cart icon, strong color, and the words "add to cart"
 - Keyboard/touch interactions
     + Touch target size
     + Padding around buttons
@@ -57,7 +57,7 @@ Building a product is like planning and throwing a party.
     + Variety of components are already designed with assistive technology in mind
         * Good headings
         * Good page structure
-        * Available acccessible web components from libraries
+        * Available accessible web components from libraries
 - Create scalable pages
     + Ensure that our components and pages that adjust to different screen sizes
 - Perform automated testing (accessibility insights)
