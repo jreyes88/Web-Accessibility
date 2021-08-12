@@ -2,14 +2,11 @@
 
 _Web Accessibility_ is the inclusive practice of making websites usable by everyone, regardless of ability or disability.
 
-
 >"The power of the Web is in its universality. Access by everyone, regardless of disability, is an essential aspect."
 
 \- Tim Berners-Lee, W3C Director, and inventor of the World Wide Web.
 
-
 I'm aiming to be a better web developer by improving my knowledge of web accessibility and putting what I learn into practice. This repo is meant to be a place where I compile notes about web accessibility for easy reference and recall. This is a living document that I will update as I do various trainings, learn new things, or implement and improve old ones. Pull requests are welcome.
-
 
 ## Trainings and Resources
 
@@ -19,6 +16,7 @@ I'm aiming to be a better web developer by improving my knowledge of web accessi
 - Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Images:%20Alternative%20Content%20for%20Accessibility)
 - Online details can be found [here](https://knowbility.org/services/online-training/image-alternatives)
 
+---
 
 ### Microsoft Ability Summit 2021
 
@@ -29,7 +27,6 @@ Ability Summit is a two-day, free digital event experience that brings together 
 - [Intersectionality Between Race and Disability](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Intersectionality%20Between%20Race%20and%20Disability)
 - [Start Simple with Accessibility](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Start%20Simple%20with%20Accessibility)
 - [Developing with Accessibility in Mind](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Developing%20with%20Accessibility%20in%20Mind)
-
 
 ---
 
@@ -49,7 +46,6 @@ Ability Summit is a two-day, free digital event experience that brings together 
 - Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Introduction%20to%20Web%20Accessibility%20and%20WCAG%202.1).
 - Online course can be found [here](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/).
 
-
 ---
 
 ### Screen Readers in the Wild
@@ -59,9 +55,7 @@ Ability Summit is a two-day, free digital event experience that brings together 
 - Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Screen%20Readers%20in%20the%20Wild)
 - Online details can be found [here](https://knowbility.org/services/online-training/2021/january/screen-readers-in-the-wild/)
 
-
 ---
-
 
 ### Hands on Training Accessibility Testing Workshop
 
