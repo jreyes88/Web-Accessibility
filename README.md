@@ -22,7 +22,7 @@ I'm aiming to be a better web developer by improving my knowledge of web accessi
 
 Ability Summit is a two-day, free digital event experience that brings together people with disabilities, allies, and accessibility professionals to Imagine, Build, Include, and Empower the future of disability inclusion and accessibility.
 
-**Sessions Attended:**  
+**Sessions Attended:**
 - [Collaboration and Remote Work](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Collaboration%20and%20Remote%20Work)
 - [Intersectionality Between Race and Disability](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Intersectionality%20Between%20Race%20and%20Disability)
 - [Start Simple with Accessibility](https://github.com/jreyes88/Web-Accessibility/tree/main/Microsoft%20Ability%20Summit%202021/Start%20Simple%20with%20Accessibility)
@@ -59,6 +59,15 @@ Ability Summit is a two-day, free digital event experience that brings together 
 
 ### Hands on Training Accessibility Testing Workshop
 
-- This was a morning workshop I attended on April 2, 2020, put on by [Knowbility](https://knowbility.org/), and hosted by [Nicolas Steenhout](https://twitter.com/vavroom).
-- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Hands%20on%20Training%20Accessibility%20Testing%20-%20Virtual%20Workshop).
-- Online details can be found [here](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/).
+- This was a morning workshop I attended on April 2, 2020, put on by [Knowbility](https://knowbility.org/), and hosted by [Nicolas Steenhout](https://twitter.com/vavroom)
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Hands%20on%20Training%20Accessibility%20Testing%20-%20Virtual%20Workshop)
+- Online details can be found [here](https://knowbility.org/services/online-training/hands-on-training-accessibility-testing-workshop/)
+
+---
+
+### Solving Cross-Team Accessibility Challenges with Cypress
+
+- Mostly an ad for Cypress Accessibility and Cypress Cloud tooling, there were a few snippets that I appreciated about accessibility testing culture that were worth noting
+- Presented on April 2, 2026 by Cypress, presented by [Mark Noonan](https://www.linkedin.com/in/markthomasnoonan/)
+- Notes can be found [here](https://github.com/jreyes88/Web-Accessibility/tree/main/Solving%20Cross-Team%20Accessibility%20Challenges%20with%20Cypress)
+- Recording can be [found](https://youtu.be/jEbd7EBXqvI?si=d-uOYsv7luQgC2sB) here
